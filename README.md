@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 3D design projects thru programming
-- 📫 How to reach me: brenda.c.rojas@gmail.com
+- 📫 How to reach me: himmlischgeist@gmail.com
 
 <!---
 brendard/brendard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
