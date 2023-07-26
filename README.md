@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brendard
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science with Python on DataCamp
 - 💞️ I’m looking to collaborate on 3D design projects thru programming
 - 📫 How to reach me: himmlischgeist@gmail.com
 
